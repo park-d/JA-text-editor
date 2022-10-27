@@ -16,7 +16,7 @@
 ## Usage 
 
 ## Credits
-While working on this project, I worked alongside Jackson Myhre in the same bootcamp class. A lot of the routes were taken from class activities and edited to work in this assignment. Other sources: 
+While working on this project, I worked alongside Jackson Myhre in the same bootcamp class. A lot of this assignment was taken from class activities and edited to work in this assignment. Other sources: 
 - []()
 - []()
 - []()
