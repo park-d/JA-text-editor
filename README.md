@@ -13,7 +13,7 @@ A text editor that runs in the browser. This is a single-page application that m
 
 ## Installation
 
-N/A
+To install all dependencies, run ``` npm i ``` at root level in the terminal. Then in the terminal, run ``` npm run start ``` to build the webpack dist folder. Finally open ``` localhost:3000 ``` in the browser to preview. Though, the application is deployed on heroku already.
 
 ## Usage 
 Application deployed at the following link: [Deployed J.A.T.E Application](https://park-d-text-editor.herokuapp.com/)
